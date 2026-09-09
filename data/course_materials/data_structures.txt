@@ -1,0 +1,12 @@
+data structure is a way of organizing and storing data so that it can be accessed and modified efficiently.
+An array is a collection of elements stored at contiguous memory locations, allowing fast index-based access.
+A linked list is a linear data structure where each element, called a node, contains data and a reference to the next node.
+A stack is a linear data structure that follows the Last In First Out principle, where the last element added is the first removed.
+A queue is a linear data structure that follows the First In First Out principle, where the first element added is the first removed.
+A tree is a hierarchical data structure consisting of nodes, with a single root node and child nodes forming a parent-child relationship.
+A binary tree is a tree data structure in which each node has at most two children, referred to as the left child and the right child.
+A binary search tree is a binary tree in which the left subtree contains values smaller than the node and the right subtree contains values greater than the node.
+A graph is a data structure consisting of a set of vertices connected by edges, used to represent networks and relationships.
+A hash table is a data structure that maps keys to values using a hash function for fast data retrieval, typically achieving constant time complexity for lookups.
+Time complexity describes how the runtime of an algorithm grows relative to the size of its input, commonly expressed using Big O notation.
+Space complexity describes how much memory an algorithm requires relative to the size of its input.
