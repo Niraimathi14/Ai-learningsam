@@ -1,0 +1,12 @@
+An algorithm is a finite sequence of well-defined instructions used to solve a problem or perform a computation.
+Sorting algorithms arrange elements of a list in a particular order, typically ascending or descending.
+Bubble sort repeatedly steps through the list, compares adjacent elements, and swaps them if they are in the wrong order.
+Merge sort is a divide and conquer algorithm that splits the list into halves, sorts each half, and then merges the sorted halves.
+Quick sort selects a pivot element and partitions the list into elements smaller and larger than the pivot, then recursively sorts each partition.
+Searching algorithms are used to find a specific element within a data structure.
+Linear search checks each element in a list sequentially until the target element is found or the list ends.
+Binary search finds an element in a sorted list by repeatedly dividing the search interval in half.
+A greedy algorithm builds a solution piece by piece, always choosing the option that offers the most immediate benefit.
+Dynamic programming solves complex problems by breaking them into overlapping subproblems and storing the results to avoid redundant computation.
+Recursion is a technique where a function calls itself to solve smaller instances of the same problem.
+Big O notation is used to describe the upper bound of an algorithm's time or space complexity as the input size grows.
