@@ -1,0 +1,4 @@
+# No external dependencies required.
+# This project uses only the Python 3 standard library (re, math, json, os,
+# collections, random) so it runs anywhere Python 3 is installed, with no
+# internet connection or API key needed.
