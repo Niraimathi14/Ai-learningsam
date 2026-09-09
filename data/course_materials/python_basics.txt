@@ -1,0 +1,17 @@
+Topic: Python Basics
+
+Python is a high-level, interpreted programming language known for its readability and simplicity.
+Variables in Python do not need explicit type declarations; the interpreter infers the type at runtime.
+Python supports multiple data types including integers, floats, strings, lists, tuples, dictionaries, and sets.
+A list is an ordered, mutable collection of items and is defined using square brackets, for example my_list = [1, 2, 3].
+A tuple is similar to a list but is immutable, meaning its elements cannot be changed after creation.
+A dictionary stores data as key-value pairs and is defined using curly braces, for example my_dict = {"key": "value"}.
+Functions in Python are defined using the def keyword and can accept parameters and return values.
+Python uses indentation instead of curly braces to define blocks of code such as loops and conditionals.
+Conditional statements in Python include if, elif, and else, which allow the program to make decisions.
+Loops in Python include the for loop, which iterates over a sequence, and the while loop, which repeats while a condition is true.
+Exception handling in Python is done using try, except, else, and finally blocks to gracefully handle runtime errors.
+Python supports object-oriented programming through classes, which are defined using the class keyword.
+A class can have attributes and methods, and objects are instances of a class.
+Modules in Python are files containing Python code that can be imported into other programs using the import statement.
+The pip tool is used to install external Python packages from the Python Package Index.
